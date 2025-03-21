@@ -3,9 +3,8 @@ title: "Main summary"
 description: "Reference pages are ideal for outlining how things work in terse and clear terms."
 summary: ""
 date: 2023-09-07T16:13:18+02:00
-lastmod: 2023-09-07T16:13:18+02:00
 draft: false
-weight: 910
+weight: 1000
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -28,7 +27,7 @@ seo:
 - He lies that its from the first encounter
 - He keeps denying it
 
-### Lisha:
+### Ms L:
 
 - Mr O is acting unnatural
-- NEXT POINT HERE
+- As soon as the 2 discord servers are mentioned, he changes the topic
